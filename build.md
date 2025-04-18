@@ -1,6 +1,6 @@
 CLI: ReVanced
-ReVanced/revanced-cli-5.0.0-all.jar
-revanced-cli-5.0.0-all.jar.asc  
+ReVanced/revanced-cli-5.0.1-all.jar
+revanced-cli-5.0.1-all.jar.asc  
 Integrations: ReVanced
 ReVanced/revanced-integrations-1.16.0.apk
 revanced-integrations-1.16.0.apk.asc  
@@ -19,8 +19,8 @@ Patches: /
 
 
 CLI: ReVanced
-ReVanced/revanced-cli-5.0.0-all.jar
-revanced-cli-5.0.0-all.jar.asc  
+ReVanced/revanced-cli-5.0.1-all.jar
+revanced-cli-5.0.1-all.jar.asc  
 Integrations: anddea
 anddea/revanced-integrations-0.158.0.apk
 revanced-integrations-0.158.0.apk.asc  
