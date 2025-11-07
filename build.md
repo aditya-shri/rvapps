@@ -11,7 +11,7 @@ Patches: /
 
 
 CLI: inotia00/revanced-cli-5.0.1-all.jar  
-Integrations: inotia00/revanced-integrations-1.16.1.apk  
+Integrations: inotia00/revanced-integrations-1.17.1.apk  
 Patches: /  
 [Changelog](https://github.com/inotia00/revanced-patches/releases/tag/v)
 
