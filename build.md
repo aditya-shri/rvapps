@@ -10,8 +10,8 @@ Patches: /
 
 
 
-CLI: inotia00/revanced-cli-5.0.1-all.jar  
-Integrations: inotia00/revanced-integrations-1.18.1.apk  
+CLI: inotia00/revanced-cli-5.0.2-all.jar  
+Integrations: inotia00/revanced-integrations-1.19.1.apk  
 Patches: /  
 [Changelog](https://github.com/inotia00/revanced-patches/releases/tag/v)
 
